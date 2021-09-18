@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenTest/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest/mavenTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-promble/one-promble.iml" filepath="$PROJECT_DIR$/one-promble/one-promble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subject.iml" filepath="$PROJECT_DIR$/subject.iml" />
+      <module fileurl="file://D:/Download/eclipse-java-oxygen-3a-win32-x86_64/eclipse/workspace/subject/subject1.iml" filepath="D:/Download/eclipse-java-oxygen-3a-win32-x86_64/eclipse/workspace/subject/subject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
